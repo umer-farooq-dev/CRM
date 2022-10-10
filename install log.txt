@@ -1,0 +1,716 @@
+install log
+please install
+favicons. folder in root directory
+logos and developers apps's logo. folder in root directory
+messegers downloads link pictures. folder in root directory
+ios and android timeline apps pictures. folder in root directory
+WATERMARKS. folder in root directory
+Slogan: uwwclass a place for friends.
+---------------------------------------------------------------------------------------------------------------------------
+General Configuration
+Maintenance Mode: OFF
+
+
+SEO Friendly URL
+Enable smooth loading to save bandwidth.
+
+Developers (API System)
+Show /developers page to all users for API requests.
+
+Welcome Page Users
+Allow non logged users to view user profiles on welcome page.
+
+Default Language
+English
+
+Date Format
+dd-mm-yy
+
+User Configuration
+Online Users: ON
+
+User Last Seen Status: ON
+
+User Account Deletion: ON
+
+Profile Background Change: ON
+
+Friends System: Follow
+
+Connectivity System Limit: 10000
+
+User Invite System: ON
+
+How many links can a user generate? 10
+
+User can generate X links within? 1 Month
+---------------------------------------------------------------------------------------------------------------------------
+
+Other Settings
+
+Censored Words: Bloody hell, Bollocks, Bugger, Choad, Crikey, Rubbish, Shag, Taking the piss, Twat,Asshole, Bitch, 
+Bastard, Damn, Dickhead, Fuck, Shit, Piss off, Son of a bitch,Beau cave, Chuckle head, Dough head, Hoser, Skeet,
+anal,@ss,@$$,anus,arse,ass,ballsack,balls,bastard,bitch,biatch,bloody,blowjob,blow job,bollock,bollok,boner,boob,bugger,bum,
+butt,buttplug,clitoris,cock,coon,crap,cunt,damn,dick,dildo,dyke,fag,feck,fellate,fellatio,felching,fuck,f u c k,fudgepacker,
+fudge packer,flange,Goddamn,God damn,hell,homo,jerk,jizz,knobend,knob end,labia,lmao,lmfao,muff,nigger,nigga,omg,penis,piss,
+poop,prick,pube,pussy,queer,scrotum,sex,shit,s hit,sh1t,slut,smegma,spunk,tit,tosser,turd,twat,vagina,wank,whore,wtf
+
+Home Page Caching: Update home page sidebar data every 2 minutes.
+
+Profile Page Caching: Every 2 minutes
+---------------------------------------------------------------------------------------------------------------------------
+
+Login & Registration
+
+User Registration: ON
+
+Auto Username On Register: ON
+
+Password Complexity System: ON
+
+Unusual Login: ON
+
+Two-factor authentication: ON
+
+Two-factor Authentication Method: E-mail Address
+
+Account Validation: ON
+
+Account Validation Method: E-mail
+
+reCaptcha :ON
+Enable reCaptcha to prevent spam.
+https://www.google.com/recaptcha/admin/create
+https://developers.google.com/
+login: enriquesome63@gmail.com
+password: 1q2w3e4r51qaz
+
+Prevent Bad Login Attempts: ON
+Login Limit 4
+
+Lockout Time (5 Minutes)
+
+Registration Limits: 5
+----------------------------------------------------------------------------------------------------------------------------
+
+Notifications Settings
+
+E-mail Notifications: OFF
+
+Profile Visit Notifications: ON
+
+Notification On New Post: ON
+----------------------------------------------------------------------------------------------------------------------------
+
+Website Information
+
+Website Title: UWWCLASS
+
+Website Name: UWWCLASS
+
+Website Keywords: social, uwwclass, social site, social classifieds, followers, best social networking script
+
+Website Description
+uwwclass is a Social Networking Platform. With our new feature, social classifieds, user can add posts, photos, audio, video, messenger
+
+Website Logo: folders in root directory favicons and logos
+
+Google Analytics Code: 
+https://developers.google.com/
+login: enriquesome63@gmail.com
+password: 1q2w3e4r51qaz
+---------------------------------------------------------------------------------------------------------------------------
+
+Features API Keys & Information
+
+Google Maps: ON
+
+Google Map API
+https://developers.google.com/
+login: enriquesome63@gmail.com
+password: 1q2w3e4r51qaz
+
+Youtube API Keyhttps://developers.google.com/
+login: enriquesome63@gmail.com
+password: 1q2w3e4r51qaz
+
+Yandex Translation API
+https://yandex.com/dev/translate/
+login: enriquesome63
+pass: 1q2w3e4r5A@
+
+Giphy API
+https://developers.giphy.com/dashboard/
+login: enriquesome63@gmail.com
+pass: 1q2w3e4r5A@
+---------------------------------------------------------------------------------------------------------------------------
+
+Upload & File Sharing Configuration
+
+File Upload & Sharing: ON
+
+Video Upload & Sharing: ON
+
+Audio Upload & Sharing: ON
+
+CSS Upload & Modifications: ON
+
+---------------------------------------------------------------------------------------------------------------------------
+Upload & File Limits 
+
+don't allow PHP, JS, HTML, XML, XPHP, PHP5 files.
+
+Allowed Extenstions
+jpg,png,jpeg,gif,mkv,docx,zip,rar,pdf,doc,mp3,mp4,flv,wav,txt,mov,avi,webm,wav,mpeg
+
+Allowed MIME Types
+video/mp4,video/mov,video/mpeg,video/flv,video/avi,video/webm,audio/wav,audio/mpeg,video/quicktime,audio/mp3,image/png,image/jpeg,image/gif,application/pdf,application/msword,application/zip,application/x-rar-compressed,text/pdf,application/x-pointplus,text/css
+
+Max Upload Size: 256 MB
+
+---------------------------------------------------------------------------------------------------------------------------
+
+FFMPEG Video Converter Settings
+
+FFMPEG Configuration
+
+FFMPEG System: ON
+
+FFMPEG Binary File Path
+./ffmpeg/ffmpeg
+
+Convert video speed: Veryfast
+
+Allowed Extenstions: mov,mp4,m4a,3gp,3g2,mj2,asf,avi,flv,webm,m4v,mpeg,mpeg,mpeg,ogv,mkv,webm,mov
+
+Allowed MIME Types
+application/vnd.ms-asf,video/x-msvideo,video/x-flv,video/webm,video/x-m4v,video/mp4,video/mpeg,video/ogg,video/x-matroska,video/quicktime,video/x-ms-wmv,video/x-msvideo
+
+---------------------------------------------------------------------------------------------------------------------------
+Storage & CDN Configuration
+
+Amazon S3 Configuration
+Amazon S3 Storage: PLEASE HELP ME SETUP THIS. THANKS.
+
+Digitalocean Spaces Configuration
+Digitalocean Spaces Storage: PLEASE HELP ME SETUP THIS. THANKS.
+
+FTP Settings
+FTP Storage: ON, PLEASE HELP ME SETUP THIS. THANKS.
+
+Google Cloud Settings
+Google Cloud Storage: PLEASE HELP ME SETUP THIS. THANKS.
+---------------------------------------------------------------------------------------------------------------------------
+E-mail Configuration
+E-mail Server: PLEASE SETUP MAIL SERVER FOR ME
+
+---------------------------------------------------------------------------------------------------------------------------
+SMS Settings
+Default SMS Provider: PLEASE HELP ME SETUP THIS. THANKS.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+
+Chat Settings: ON
+
+Message Seen Alert: ON
+
+User Typing System: ON
+
+Agora API Configuration: PLEASE HELP ME SETUP THIS. THANKS.
+---------------------------------------------------------------------------------------------------------------------------
+
+Video & Audio Chat Settings
+
+Video Calls: ON
+
+Audio Calls: ON
+
+Twilio API Configuration
+
+Twilio Video / Audio Calls: PLEASE HELP ME SETUP THIS. THANKS.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Social Login Settings:
+
+Facebook Login please create and configurate api
+https://developers.facebook.com/?no_redirect=1
+login: enriquesome63@gmail.com
+pass:1q2w3e4r5
+
+Vkontakte Login
+https://vk.com/dev
+login: +13232537825
+password:1q2w3e4r5A@
+
+Google+ Login
+https://developers.google.com/
+login: enriquesome63@gmail.com
+password: 1q2w3e4r51qaz
+
+Twitter Login
+https://developers.twitter.com
+login: enriquesome63@gmail.com
+pass:1q2w3e4r5A@
+
+Linkedin Login
+https://www.linkedin.com/developers/login
+login: enriquesome63@gmail.com
+pass: 1q2w3e4r5A@
+
+Instagram Login
+https://www.instagram.com/developer/
+login: kikenandez3
+pass: !Q@W#E$R%A@
+
+QQ Login
+disabled try to setup if you can please
+https://open.qq.com/eng
+
+WeChat Login
+disabled try to setup if you can please
+https://qpsoftware.net/solutions/wechat-developer
+
+Discord Login
+https://discord.com/developers/applications
+login: kikenandez3
+pass: 1q2w3e4r5A@
+
+Mailru Login
+https://www.programmableweb.com/api/mailru-rest-api
+login: enriquesome63@mail.ru
+pass: 1qaz135A@
+
+---------------------------------------------------------------------------------------------------------------------------
+
+NodeJs Configuration
+
+NodeJS: ON
+
+NodeJs SSL Connection: ON
+
+Live Notification Bar: ON
+
+NodeJs HTTP Port: SET THIS UP FOR ME PLEASE.
+
+NodeJs HTTPS (SSL) Port: SET THIS UP FOR ME PLEASE.
+NodeJs SSL Certificate Key Path (.key) SET THIS UP FOR ME PLEASE.
+NodeJs SSL Certificate Path (.crt)SET THIS UP FOR ME PLEASE.
+
+Redis Server: ON
+
+Redis Port: SET THIS UP FOR ME PLEASE.
+
+Server Redis port: SET THIS UP FOR ME PLEASE.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Post Settings
+
+Social Share Links
+
+Twitter: ON
+
+Facebook: ON
+
+What's app: ON
+
+Pinterest: ON
+
+Linkedin: ON
+
+Telegram: ON
+
+Adult Images Settings
+
+Adult Images Filtration: ON
+
+Action For Adult Images
+Delete The Image
+
+Vision API key: PLEASE HELP ME SETUP THIS. THANKS.
+https://developers.google.com/
+login: enriquesome63@gmail.com
+password: 1q2w3e4r51qaz
+---------------------------------------------------------------------------------------------------------------------------
+
+General Posts & Comments Settings
+
+Memories System: ON
+
+Watermark Overlay: ON
+
+Shout Box System: ON
+
+Colored Posts: ON
+
+Post Approval System: OFF
+
+Popular Posts & Comments: ON
+---------------------------------------------------------------------------------------------------------------------------
+
+Comment Reports: ON
+
+Max Allowed Characters Length: 1280 Characters
+
+NewsFeed Posts: Show All Posts
+
+Second Post Button: Reaction System
+
+Post Limit Count: 40
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Manage Colored Posts: PLEASE SET THIS UP FOR ME. THANKS.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Manage Reactions: PLEASE SET THIS UP FOR ME. THANKS.
+---------------------------------------------------------------------------------------------------------------------------
+
+Live Streaming Settings
+
+Live Streaming: ON
+
+Live Streaming Strorage: ON. PLEASE HELP ME SETUP THIS. THANKS.
+---------------------------------------------------------------------------------------------------------------------------
+
+Manage Website Features
+
+Greeting System: ON
+
+Poke System: ON
+
+Games System: ON
+
+Pages System: ON
+
+Nearby Businesses: ON
+
+Groups System: ON
+
+Classified System: ON
+
+Offer System: ON
+
+Nearby Shops: ON
+
+MarketPlace Visibility: All Users
+
+Blogs System: ON
+
+Blog Approval System: ON
+
+Who Can Post Blogs?: Users Only
+
+Events System: ON
+
+Events Visibility: All Users
+
+Forums System: ON
+
+Forums Visibility: Registered Users Only
+
+Movies System: ON
+
+Story / Status System: ON
+
+GIF System: ON
+
+Stickers System: ON
+
+Nearby Friends System: ON
+
+GIFT System:ON
+
+Jobs System: ON
+
+Common Things Page: ON
+
+Weather Widget: ON. PLEASE SETUP THIS FOR ME. THANKS.
+Use the APP ID from openweathermap.org
+login: enriquesome63@gmail.com
+pass: 1q2w3e4r5A@
+---------------------------------------------------------------------------------------------------------------------------
+
+Point & Level Configuration
+
+
+Points & Level System: ON
+
+Withdrawal Earned Points: ON
+
+$1.00 = 100000 Points
+
+Free User Daily Limit: 100 points
+
+Pro User Daily Limit: 200 points
+
+Comments: 10 points
+
+Likes: 5 points
+
+DisLikes: 2 points
+
+Wonders: 3 points
+
+Reaction: 5 points
+
+Create New Post: 20 points
+
+Create A Blog: 15 points
+---------------------------------------------------------------------------------------------------------------------------
+
+Manage Apps: PLEASE SETUP THIS FOR ME. THANKS.
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Funding Settings
+
+Who Can Create Funding Requests?
+All Users
+Commission: 15% 
+
+---------------------------------------------------------------------------------------------------------------------------
+FORUMS
+
+Create New Section: Economics and Trade,Education,Entertainment,Movies & Animation,Gaming,History and Facts,Live Style,Natural,News and Politics,People and Nations,Pets and Animals,Places and Regions,Science and Technology,Travel and Events
+,religion,vehicles,comedy,sweethearts,vacations,sports,games,casino,resort,babysitter,clergy,office worker,clerical worker,administrator,administrative officer,bookkeeper,record keeper,account keeper,cashier,teller,babu,scrivener
+Create New Forum: PLEASE HELP ME SETUP THIS. THANKS.
+---------------------------------------------------------------------------------------------------------------------------
+Manage Games HELP ME TO SETUP THIS PLEASE AT LEAST 10 GAMES, THANKS.
+Add New Game
+---------------------------------------------------------------------------------------------------------------------------
+
+Manage Pages Categories
+
+Add Category: Economics and Trade,Education,Entertainment,Movies & Animation,Gaming,History and Facts,Live Style,Natural,News and Politics,People and Nations,Pets and Animals,Places and Regions,Science and Technology,Travel and Events
+,religion,vehicles,comedy,sweethearts,vacations,sports,games,casino,resort,babysitter,clergy,office worker,clerical worker,administrator,administrative officer,bookkeeper,record keeper,account keeper,cashier,teller,babu,scrivener
+
+---------------------------------------------------------------------------------------------------------------------------
+
+Manage Pages Sub Categories
+
+Add Sub Category: PLEASE HELP ME SETUP THIS. THANKS.
+---------------------------------------------------------------------------------------------------------------------------
+
+Manage Groups Categories
+ 
+Manage Categories: Economics and Trade,Education,Entertainment,Movies & Animation,Gaming,History and Facts,Live Style,Natural,News and Politics,People and Nations,Pets and Animals,Places and Regions,Science and Technology,Travel and Events
+,religion,vehicles,comedy,sweethearts,vacations,sports,games,casino,resort,babysitter,clergy,office worker,clerical worker,administrator,administrative officer,bookkeeper,record keeper,account keeper,cashier,teller,babu,scrivener
+
+----------------------------------------------------------------------------------------------------------------------------
+Manage Groups Sub Categories
+
+Add Sub Category: PLEASE HELP ME SETUP THIS. THANKS.
+---------------------------------------------------------------------------------------------------------------------------
+Blogs categories: Economics and Trade,Education,Entertainment,Movies & Animation,Gaming,History and Facts,Live Style,Natural,News and Politics,People and Nations,Pets and Animals,Places and Regions,Science and Technology,Travel and Events
+,religion,vehicles,comedy,sweethearts,vacations,sports,games,casino,resort,babysitter,clergy,office worker,clerical worker,administrator,administrative officer,bookkeeper,record keeper,account keeper,cashier,teller,babu,scrivener
+
+---------------------------------------------------------------------------------------------------------------------------
+Manage Products Categories
+
+Add Category:
+
+        1	Cellphones & telecomms	 
+	2	Autos & Vehicles	 
+	3	Baby & Children's Products	 
+	4	Beauty Products & Services	 
+	5	Computers & Peripherals	 
+	6	Consumer Electronics	 
+	7	Dating Services	 
+	8	Financial Services	 
+	9	Gifts & Occasions	 
+	10	Home & Garden
+        11      Other
+---------------------------------------------------------------------------------------------------------------------------
+
+Manage Products Sub Categories
+
+Add Sub Category: PLEASE HELP ME SETUP THIS. THANKS.
+---------------------------------------------------------------------------------------------------------------------------
+Manage Job Categories:
+
+	1       Clergy
+	2	Admin & Office	 
+	3	Art & Design	 
+	4	Business Operations	 
+	5	Cleaning & Facilities	 
+	6	Community & Social Services	 
+	7	Computer & Data	 
+	8	Construction & Mining	 
+	9	Education	 
+	10	Farming & Forestry	 
+	11	Healthcare	 
+	12	Installation, Maintenance & Repair	 
+	13	Legal	 
+	14	Management	 
+	15	Manufacturing	 
+	16	Media & Communication	 
+	17	Personal Care	 
+	18	Protective Services	 
+	19	Restaurant & Hospitality	 
+	20	Retail & Sales	 
+	21	Science & Engineering	 
+	22	Sports & Entertainment	 
+	23	Transportation
+        24	Other
+---------------------------------------------------------------------------------------------------------------------------
+
+Manage Gifts
+Add New Gift: please add at least 10 gifts animations i'll try to add more if i can. thanks.
+---------------------------------------------------------------------------------------------------------------------------
+users
+
+Affiliates Settings:
+
+Affiliates System: ON
+
+User will earn money when: New user is registred & bought a pro package
+
+Minimum withdrawal request: 100
+Minimum withdrawal the users can request Amount 0.10
+Amount % : 0
+---------------------------------------------------------------------------------------------------------------------------
+
+Manage Genders:
+	1	female	 	 
+	2	Male
+        3	transgender
+        4       gay
+---------------------------------------------------------------------------------------------------------------------------
+Payment Configuration
+
+PLEASE HELP ME SETUP THIS. THANKS.
+---------------------------------------------------------------------------------------------------------------------------
+
+Advertisements System Settings
+ 
+Cost By View
+0.01
+ 
+Cost By Click
+0.05
+
+Top Up user's Wallet
+Amount
+0.00
+i don't get this clear users pay me for their adds or i have to pay them here? PLEASE HELP ME SETUP THIS. THANKS.
+----------------------------------------------------------------------------------------------------------------------------
+
+Pro System: ON
+
+Recurring Payment: OFF
+
+Refund System: ON
+
+Edit Pro Packages:
+
+  STAR
+ Enabled	
+  HOT
+ Enabled	
+  ULTIMA
+ Enabled	
+  VIP
+ Enabled
+
+---------------------------------------------------------------------------------------------------------------------------
+	
+Pro Membership Features
+
+Pro Membership On Sign Up: OFF
+
+Upload System: Pro Membership users only
+
+Who can make Video / Audio calls?: Pro Membership users only
+
+----------------------------------------------------------------------------------------------------------------------------
+
+Tools
+
+Manage Emails: PLEASE SETUP THIS FOR ME. THANKS.
+
+Send E-mail: PLEASE SETUP THIS FOR ME. THANKS.
+
+Auto Delete Website Data: Delete users that are not logged in more than 1 year
+
+Auto Friend: uwwclass
+
+Auto Page Like: Economics and Trade,Education,Entertainment,Movies & Animation,Gaming,History and Facts,Live Style,Natural,News and Politics,People and Nations,Pets and Animals,Places and Regions,Science and Technology,Travel and Events
+,religion,vehicles,comedy,sweethearts,vacations,sports,games,casino,resort,babysitter,clergy,office worker,clerical worker,administrator,administrative officer,bookkeeper,record keeper,account keeper,cashier,teller,babu,scrivener
+
+Auto Group Join: Economics and Trade,Education,Entertainment,Movies & Animation,Gaming,History and Facts,Live Style,Natural,News and Politics,People and Nations,Pets and Animals,Places and Regions,Science and Technology,Travel and Events
+,religion,vehicles,comedy,sweethearts,vacations,sports,games,casino,resort,babysitter,clergy,office worker,clerical worker,administrator,administrative officer,bookkeeper,record keeper,account keeper,cashier,teller,babu,scrivener
+
+Update SiteMap: Default (daily)
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+Manage API Server Keys: PLEASE SETUP THIS FOR ME. THANKS.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+Push Notifications Settings
+
+Push Notifications System: ON
+
+Android Push Messages: ON
+
+IOS Push Messages: ON
+
+Android Push Native Site Notifications: ON
+
+IOS Push Native Site Notifications: ON
+
+Web Push Notifications: ON
+
+https://onesignal.com/ 
+
+Android Global Notifications Settings: I WILL SETUP UP THIS MYSELF. THANKS.
+
+IOS Global Notifications Settings: I WILL SETUP UP THIS MYSELF. THANKS.
+
+Web Global Notifications Settings: I WILL SETUP UP THIS MYSELF. THANKS.
+
+Android Messenger & Chat Push Notifications Settings: PLEASE HELP ME SETUP THIS. THANKS.
+
+IOS Messenger & Chat Push Notifications Settings: PLEASE HELP ME SETUP THIS. THANKS.
+------------------------------------------------------------------------------------------------------------------------------
+
+Mobile & Verify Applications
+ I'M PURCHASING THE MOBILE APPLICATIONS AND I AM GONA NEED YOUR HELP SETTING THEM UP. 
+ALSO BE GUIDED ON HOW TO UPLOADING THEM TO DE APP STORES IOS AND ANDROID
+
+Native Windows Messenger
+Native Android Messenger
+Native iOS Messenger
+Native Android Timeline
+
+help with Applications Verification.
+------------------------------------------------------------------------------------------------------------------------------
+
+Third party sites
+Site that uses PlayTube script, e.g. https://playtubescript.com
+https://playtubescript.com This feature allows you to integrate PlayTube script with your site, so videos will be embedded in the post box if someone shares a link from your site.
+(((buy script and pointed to the place is hosted in my server))) PLEASE HELP ME SETUP THIS. THANKS.
+
+Third party sites
+https://deepsoundscript.com Site that uses Deep Sound script, e.g. https://deepsoundscript.com
+(((buy script and pointed to the place is hosted in my server))) PLEASE HELP ME SETUP THIS. THANKS.
+------------------------------------------------------------------------------------------------------------------------------
+
+need url to admin area and the login and password
+------------------------------------------------------------------------------------------------------------------------------
+
+setup ssl please.
+
+------------------------------------------------------------------------------------------------------------------------------
+
+terms and conditions 
+legal
+privacy
+about
+refpund policy 
+all in root folder. PLEASE HELP ME SETUP THIS. THANKS.
